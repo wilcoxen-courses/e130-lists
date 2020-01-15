@@ -47,5 +47,3 @@ you're done: you have submitted your answer.
 * You'll probably find you use `split()` and `join()` a lot: they're very useful for dealing with text. A handy way to get rid of extra
 spaces in input text (say two or more spaces when you'd really like to have exactly one) is to split the string and then join the words
 back together.
-
-*
