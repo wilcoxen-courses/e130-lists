@@ -47,12 +47,12 @@ examples).
    that is sorted in alphabetical order. Then print `sorted_oath`.
 
 1. Create a list called `yoda` that consists of one word: `["code"]`.
-   Then extend it with the last three words of `sorted_oath`. 
-   
-1. Finally, join `yoda` with spaces and print the result out. If all 
+   Then extend it with the last three words of `sorted_oath`.
+
+1. Finally, join `yoda` with spaces and print the result out. If all
    has gone well it should look like a statement about the course.
 
-If you aren't sure how to do some of these things, have a look at `demo.py` 
+If you aren't sure how to do some of these things, have a look at `demo.py`
 for some examples.
 
 ### Submitting
