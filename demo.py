@@ -14,7 +14,7 @@ print(a_list[0])
 
 a_list.append("four")
 
-#  Extending it with another lists
+#  Extending it with another list
 
 a_more = ["five","six"]
 a_list.extend(a_more)
@@ -35,7 +35,7 @@ print(a_list[1:3])
 print("\nElements from the start through element 3:")
 print(a_list[:4])
 
-#  Selecting all elements from the third to the end of the list
+#  Selecting all elements from the second to the end of the list
 
 print("\nElements from second to the end:")
 print(a_list[1:])
