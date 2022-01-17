@@ -1,5 +1,9 @@
-#! /bin/python3
-#  Jan 20 (PJW)
+'''
+demo.py
+Jan 2020 PJW
+
+Demonstrate the use of lists.
+'''
 
 a_list = ["zero","one","two","three"]
 print("\nOriginal a_list:")
@@ -10,7 +14,12 @@ print(a_list)
 print("\nFirst element:")
 print(a_list[0])
 
-#  Appending another elements
+#  Selecting the last element from a list
+
+print("\nLast element:")
+print(a_list[-1])
+
+#  Appending another element
 
 a_list.append("four")
 
