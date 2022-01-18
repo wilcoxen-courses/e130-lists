@@ -1,8 +1,6 @@
 '''
-demo.py
-Jan 2020 PJW
-
 Demonstrate the use of lists.
+Spring 2022 PJW
 '''
 
 a_list = ["zero","one","two","three"]
