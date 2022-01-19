@@ -1,7 +1,9 @@
-'''
-Demonstrate the use of lists.
+"""
+demo.py
 Spring 2022 PJW
-'''
+
+Demonstrate the use of lists.
+"""
 
 a_list = ["zero","one","two","three"]
 print("\nOriginal a_list:")
